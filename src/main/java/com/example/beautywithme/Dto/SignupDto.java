@@ -35,7 +35,6 @@ public class SignupDto {
                 .phone(phone)
                 .role(Role.USER)
                 .build();
-
                 return user;
     }
 
